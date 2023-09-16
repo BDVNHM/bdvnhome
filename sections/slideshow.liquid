@@ -577,6 +577,56 @@
         }
       ]
     }
+    
   ]
 }
 {% endschema %}
+
+
+<div class="animation-container">
+  {% for i in (0..44) %}
+    <img
+      src="{{ '0000.jpg' | increment: i | asset_url }}"
+      alt="Frame {{ i }}"
+      style="display: {% if i == 0 %}block{% else %}none{% endif %};"
+      class="animation-frame"
+    >
+  {% endfor %}
+</div>
+
+<script>
+  // JavaScript code to control the animation (e.g., using JavaScript/jQuery)
+  const frames = document.querySelectorAll('.animation-frame');
+  let currentFrame = 0;
+
+  function showFrame(frameIndex) {
+    frames.forEach((frame, index) => {
+      frame.style.display = index === frameIndex ? 'block' : 'none';
+    });
+  }
+
+  function animateFrames() {
+    if (currentFrame >= frames.length) {
+      currentFrame = 0;
+    }
+    showFrame(currentFrame);
+    currentFrame++;
+  }
+
+  // Start the animation
+  setInterval(animateFrames, 100); // Adjust the interval as needed
+</script>
+
+<style>
+  /* CSS styles for the animation container and frames */
+  .animation-container {
+    position: relative;
+  }
+
+  .animation-frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+</style>
+
