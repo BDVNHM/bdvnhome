@@ -1,19 +1,46 @@
-{
-  "name": "Image Sequence Animation",
-  "settings": [
-    {
-      "type": "text",
-      "label": "Image Prefix",
-      "id": "image_prefix",
-      "default": "0000",
-      "info": "Enter the prefix of your image files."
-    },
-    {
-      "type": "number",
-      "label": "Number of Frames",
-      "id": "num_frames",
-      "default": 45,
-      "info": "Enter the total number of frames in your animation (e.g., 45 for 0000.jpg to 0044.jpg)."
+<div class="animation-container">
+  {% for i in (0..44) %}
+    <img
+      src="{{ '0000.jpg' | append: i | append: '.jpg' | asset_url }}"
+      alt="Frame {{ i }}"
+      style="display: {% if i == 0 %}block{% else %}none{% endif %};"
+      class="animation-frame"
+    >
+  {% endfor %}
+</div>
+
+<style>
+  /* CSS styles for the animation container and frames */
+  .animation-container {
+    position: relative;
+  }
+
+  .animation-frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+</style>
+
+<script>
+  // JavaScript code to control the animation (e.g., using JavaScript/jQuery)
+  const frames = document.querySelectorAll('.animation-frame');
+  let currentFrame = 0;
+
+  function showFrame(frameIndex) {
+    frames.forEach((frame, index) => {
+      frame.style.display = index === frameIndex ? 'block' : 'none';
+    });
+  }
+
+  function animateFrames() {
+    if (currentFrame >= frames.length) {
+      currentFrame = 0;
     }
-  ]
-}
+    showFrame(currentFrame);
+    currentFrame++;
+  }
+
+  // Start the animation
+  setInterval(animateFrames, 100); // Adjust the interval as needed
+</script>
