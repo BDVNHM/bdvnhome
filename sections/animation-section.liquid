@@ -5,6 +5,19 @@
   }
 {% endschema %}
 
+
+<div class="animation-container">
+  {% for i in (0..44) %}
+    <img
+      src="{{ '0000' | append: i | append: '.jpg' | asset_url }}"
+      alt="Frame {{ i }}"
+      style="display: {% if i == 0 %}block{% else %}none{% endif %};"
+      class="animation-frame"
+    >
+  {% endfor %}
+</div>
+
+
 {% stylesheet %}
 {% endstylesheet %}
 

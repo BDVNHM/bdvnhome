@@ -99,4 +99,26 @@ window.addEventListener('DOMContentLoaded', () => {
 if (Shopify.designMode) {
   document.addEventListener('shopify:section:load', (event) => initializeScrollAnimationTrigger(event.target, true));
   document.addEventListener('shopify:section:reorder', () => initializeScrollAnimationTrigger(document, true));
-}
+}// animations.js
+document.addEventListener("DOMContentLoaded", function () {
+  // Set up GSAP animation timeline
+  const tl = gsap.timeline({
+    repeat: -1, // Infinite loop
+    repeatDelay: 0.1, // Delay between loops
+  });
+
+  // Add animation frames
+  for (let i = 0; i <= 44; i++) {
+    tl.set(`.animation-frame:nth-child(${i + 1})`, {
+      display: "block",
+    })
+      .to(`.animation-frame:nth-child(${i})`, {
+        opacity: 0,
+        duration: 0.2,
+      })
+      .set(`.animation-frame:nth-child(${i})`, {
+        display: "none",
+      });
+  }
+});
+<script src="{{ 'animations.js' | asset_url }}"></script>
