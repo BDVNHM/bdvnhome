@@ -1,25 +1,19 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
-{% endschema %}
-
-
-<div class="animation-container">
-  {% for i in (0..44) %}
-    <img
-      src="{{ '0000' | append: i | append: '.jpg' | asset_url }}"
-      alt="Frame {{ i }}"
-      style="display: {% if i == 0 %}block{% else %}none{% endif %};"
-      class="animation-frame"
-    >
-  {% endfor %}
-</div>
-
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
+{
+  "name": "Image Sequence Animation",
+  "settings": [
+    {
+      "type": "text",
+      "label": "Image Prefix",
+      "id": "image_prefix",
+      "default": "0000",
+      "info": "Enter the prefix of your image files."
+    },
+    {
+      "type": "number",
+      "label": "Number of Frames",
+      "id": "num_frames",
+      "default": 45,
+      "info": "Enter the total number of frames in your animation (e.g., 45 for 0000.jpg to 0044.jpg)."
+    }
+  ]
+}
