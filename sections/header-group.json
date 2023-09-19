@@ -46,20 +46,10 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "e343e835-6905-4e5b-a238-a38f38cea960": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"animation-container\">\n  {% for i in (0..44) %}\n    <img\n      src=\"{{ '0000.jpg' | increment: i | asset_url }}\"\n      alt=\"Frame {{ i }}\"\n      style=\"display: {% if i == 0 %}block{% else %}none{% endif %};\"\n      class=\"animation-frame\"\n    >\n  {% endfor %}\n<\/div>\n\n<script>\n  \/\/ JavaScript code to control the animation (e.g., using JavaScript\/jQuery)\n  const frames = document.querySelectorAll('.animation-frame');\n  let currentFrame = 0;\n\n  function showFrame(frameIndex) {\n    frames.forEach((frame, index) => {\n      frame.style.display = index === frameIndex ? 'block' : 'none';\n    });\n  }\n\n  function animateFrames() {\n    if (currentFrame >= frames.length) {\n      currentFrame = 0;\n    }\n    showFrame(currentFrame);\n    currentFrame++;\n  }\n\n  \/\/ Start the animation\n  setInterval(animateFrames, 100); \/\/ Adjust the interval as needed\n<\/script>\n\n<style>\n  \/* CSS styles for the animation container and frames *\/\n  .animation-container {\n    position: relative;\n  }\n\n  .animation-frame {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n<\/style>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "e343e835-6905-4e5b-a238-a38f38cea960"
+    "header"
   ]
 }
