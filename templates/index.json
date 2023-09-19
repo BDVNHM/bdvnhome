@@ -100,6 +100,7 @@
         "c855173d-f78d-4e15-bebf-7c593eb60fa8"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/BODIVON_WALL_ART_2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -118,6 +119,7 @@
         "676ac434-c636-4462-b5b2-5f25653cbdb0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/bodivon_wall_art.jpg",
             "heading": "WALL ART",
             "heading_size": "h2",
             "subheading": "KUNST EN LIJSTEN VOOR JOU",
@@ -153,7 +155,7 @@
         "2259dbc8-095f-4dae-b13e-36687c9d8637": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BODIVON_CARE_kopie.jpg",
+            "image": "shopify:\/\/shop_images\/BODIVON_CARE_BATHROOM.jpg",
             "heading": "BODICARE",
             "heading_size": "h2",
             "subheading": "VERZORGING VOOR JOU",
