@@ -1,1 +1,65 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"Voor 22u besteld, dezelfde dag verzonden | Betaal nu achteraf met Klarna","link":""}}},"block_order":["announcement-bar-0"],"custom_css":["h2 {font-size: 15px;}"],"settings":{"color_scheme":"inverse","show_line_separator":false,"show_social":true,"auto_rotate":false,"change_slides_speed":3,"enable_country_selector":false,"enable_language_selector":true}},"header":{"type":"header","settings":{"logo_position":"top-center","menu":"main-menu","menu_type_desktop":"drawer","sticky_header_type":"reduce-logo-size","show_line_separator":false,"color_scheme":"scheme-1e1100ea-24e3-4856-bc62-f699f88f0e75","menu_color_scheme":"scheme-1e1100ea-24e3-4856-bc62-f699f88f0e75","enable_country_selector":true,"enable_language_selector":true,"mobile_logo_position":"center","margin_bottom":0,"padding_top":0,"padding_bottom":0}}},"order":["announcement-bar","header"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Voor 22u besteld, dezelfde dag verzonden | Betaal nu achteraf met Klarna",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "custom_css": [
+        "h2 {font-size: 15px;}"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "show_line_separator": false,
+        "show_social": true,
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "enable_country_selector": false,
+        "enable_language_selector": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "top-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "drawer",
+        "sticky_header_type": "reduce-logo-size",
+        "show_line_separator": false,
+        "color_scheme": "scheme-1e1100ea-24e3-4856-bc62-f699f88f0e75",
+        "menu_color_scheme": "scheme-1e1100ea-24e3-4856-bc62-f699f88f0e75",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e343e835-6905-4e5b-a238-a38f38cea960": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"animation-container\">\n  {% for i in (0..44) %}\n    <img\n      src=\"{{ '0000.jpg' | increment: i | asset_url }}\"\n      alt=\"Frame {{ i }}\"\n      style=\"display: {% if i == 0 %}block{% else %}none{% endif %};\"\n      class=\"animation-frame\"\n    >\n  {% endfor %}\n<\/div>\n\n<script>\n  \/\/ JavaScript code to control the animation (e.g., using JavaScript\/jQuery)\n  const frames = document.querySelectorAll('.animation-frame');\n  let currentFrame = 0;\n\n  function showFrame(frameIndex) {\n    frames.forEach((frame, index) => {\n      frame.style.display = index === frameIndex ? 'block' : 'none';\n    });\n  }\n\n  function animateFrames() {\n    if (currentFrame >= frames.length) {\n      currentFrame = 0;\n    }\n    showFrame(currentFrame);\n    currentFrame++;\n  }\n\n  \/\/ Start the animation\n  setInterval(animateFrames, 100); \/\/ Adjust the interval as needed\n<\/script>\n\n<style>\n  \/* CSS styles for the animation container and frames *\/\n  .animation-container {\n    position: relative;\n  }\n\n  .animation-frame {\n    position: absolute;\n    top: 0;\n    left: 0;\n  }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "e343e835-6905-4e5b-a238-a38f38cea960"
+  ]
+}

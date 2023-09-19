@@ -100,7 +100,6 @@
         "c855173d-f78d-4e15-bebf-7c593eb60fa8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lijstbodi_b44c9090-81b8-481c-be91-bf4860317b28.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -119,7 +118,6 @@
         "676ac434-c636-4462-b5b2-5f25653cbdb0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/campagne_2efabfd0-597a-40fc-9857-bbac18d75950.jpg",
             "heading": "WALL ART",
             "heading_size": "h2",
             "subheading": "KUNST EN LIJSTEN VOOR JOU",
@@ -403,7 +401,6 @@
         "template--19421035397445__22a88e59-3b87-40a2-8829-d2ec15573c14-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/H704aec231a164e289501307257d2cfa3n.jpg_960x960_5e8d7604-46c2-4c7b-a587-775536b683f9.webp"
           }
         }
       },
