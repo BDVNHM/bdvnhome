@@ -237,7 +237,7 @@
     "ec4b4936-cb32-48ba-92fc-c4873980c646": {
       "type": "video",
       "settings": {
-        "heading": "<strong>The Latest Luxuries<\/strong>",
+        "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video": "shopify:\/\/files\/videos\/bodi - light_1.mp4",
