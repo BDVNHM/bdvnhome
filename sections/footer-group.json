@@ -1,1 +1,61 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"newsletter":{"type":"newsletter","blocks":{"heading":{"type":"heading","settings":{"heading":"Schrijf je in en ontvang 10% korting","heading_size":"h1"}},"paragraph":{"type":"paragraph","settings":{"text":"<p>Schrijf je vandaag nog in voor ons magazine en ontvang jouw gratis kaars als een symbolisch begin van een sfeervol en vredig interieur. <\/p>"}},"email-form":{"type":"email_form","settings":{}}},"block_order":["heading","paragraph","email-form"],"settings":{"color_scheme":"background-2","full_width":true,"padding_top":44,"padding_bottom":8}},"footer":{"type":"footer","settings":{"color_scheme":"background-2","newsletter_enable":false,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":false,"show_policy":false,"margin_top":0,"padding_top":44,"padding_bottom":48}}},"order":["newsletter","footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up and receive a 10% discount.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up for our magazine today and receive your free candle as a symbolic start to a cozy and peaceful interior.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 8
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "settings": {
+        "color_scheme": "background-2",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "newsletter",
+    "footer"
+  ]
+}
