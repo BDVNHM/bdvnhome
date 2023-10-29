@@ -234,46 +234,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "ade31776-18a7-4c11-b3aa-ee9f881625dc": {
-      "type": "collection-list",
-      "blocks": {
-        "template--19421035397445__ade31776-18a7-4c11-b3aa-ee9f881625dc-featured_collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fotolijsten"
-          }
-        },
-        "template--19421035397445__ade31776-18a7-4c11-b3aa-ee9f881625dc-featured_collection-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "spiegels"
-          }
-        },
-        "template--19421035397445__ade31776-18a7-4c11-b3aa-ee9f881625dc-featured_collection-3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "geurkaarsen"
-          }
-        }
-      },
-      "block_order": [
-        "template--19421035397445__ade31776-18a7-4c11-b3aa-ee9f881625dc-featured_collection-1",
-        "template--19421035397445__ade31776-18a7-4c11-b3aa-ee9f881625dc-featured_collection-2",
-        "template--19421035397445__ade31776-18a7-4c11-b3aa-ee9f881625dc-featured_collection-3"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ec4b4936-cb32-48ba-92fc-c4873980c646": {
       "type": "video",
       "settings": {
@@ -336,13 +296,13 @@
         "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bank_close_4.jpg"
+            "image": "shopify:\/\/shop_images\/bank_close_4_478b98de-c8fa-48d3-980a-94a02e70411f.jpg"
           }
         },
         "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-product-1": {
           "type": "product",
           "settings": {
-            "product": "nordic-cloud-creme-salontafel",
+            "product": "12-st-wandpanelen-3d-3-m_-50x50-cm-origamiwit",
             "second_image": false
           }
         },
@@ -424,7 +384,7 @@
     "5e99e64c-1b00-4200-866e-446de53381b8": {
       "type": "featured-collection",
       "settings": {
-        "title": "Bekijk onze Keramieken vazen",
+        "title": "Discover Japandi",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -513,24 +473,10 @@
     "6948f8a6-5d27-4f9b-9de7-b4541c4ca21b": {
       "type": "image-banner",
       "blocks": {
-        "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Relax en kies jouw kleur.",
-            "heading_size": "h1"
-          }
-        },
-        "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Ontdek het vandaag, morgen in huis.",
-            "text_style": "body"
-          }
-        },
         "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop nu",
+            "button_label_1": "Shop now",
             "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -540,8 +486,6 @@
         }
       },
       "block_order": [
-        "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-heading-1",
-        "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-text-1",
         "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-buttons-1"
       ],
       "settings": {
@@ -619,34 +563,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "gezichtscremes",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 56,
-        "padding_bottom": 68
-      }
     }
   },
   "order": [
@@ -658,7 +574,6 @@
     "bed369fb-862e-4238-8a15-53e259d70d94",
     "e2880c26-f562-40f3-bad7-c0936733c0d1",
     "0c8cdda4-d132-4877-8cae-138cd5a6ce72",
-    "ade31776-18a7-4c11-b3aa-ee9f881625dc",
     "ec4b4936-cb32-48ba-92fc-c4873980c646",
     "4fdefd3c-6b06-486e-ad92-6a39420cb2a0",
     "71dd1cab-01d9-49a5-8982-b1bcb6186ce9",
@@ -669,7 +584,6 @@
     "0becd409-b030-4a96-bccb-888870688bc4",
     "6948f8a6-5d27-4f9b-9de7-b4541c4ca21b",
     "1721b25b-4c56-4875-a642-a06893e7b6c7",
-    "aced4f03-44ec-4218-83ea-a734505a3dd2",
-    "featured-collection"
+    "aced4f03-44ec-4218-83ea-a734505a3dd2"
   ]
 }
