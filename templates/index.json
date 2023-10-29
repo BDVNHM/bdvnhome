@@ -403,6 +403,7 @@
         "template--19421035397445__22a88e59-3b87-40a2-8829-d2ec15573c14-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/8718475733348_a_en_hd_1.jpg"
           }
         }
       },
@@ -428,7 +429,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "vazen-1",
+        "collection": "woonkamer",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
