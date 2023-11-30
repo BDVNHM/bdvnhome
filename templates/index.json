@@ -1,5 +1,53 @@
 {
   "sections": {
+    "0dcd8d32-1686-4aa0-8e8b-177d6764c17c": {
+      "type": "image-banner",
+      "blocks": {
+        "5734a1f3-c059-484c-93d9-111464c8ddbf": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW",
+            "heading_size": "h2"
+          }
+        },
+        "47aced7e-23eb-4076-865b-ab023a716c93": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "aae5a6c7-2d63-4cac-9fa1-63fe9509dfa9": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "BUY",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "5734a1f3-c059-484c-93d9-111464c8ddbf",
+        "47aced7e-23eb-4076-865b-ab023a716c93",
+        "aae5a6c7-2d63-4cac-9fa1-63fe9509dfa9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BODIVON_CARE_BATHROOM_7163568c-9131-475d-8285-c1644148d96f.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "bed369fb-862e-4238-8a15-53e259d70d94": {
       "type": "slideshow",
       "blocks": {
@@ -377,6 +425,7 @@
     }
   },
   "order": [
+    "0dcd8d32-1686-4aa0-8e8b-177d6764c17c",
     "bed369fb-862e-4238-8a15-53e259d70d94",
     "70874e66-957c-4995-8db4-f0a8e75f2c36",
     "ce47fc51-a6d1-4dc3-bc9c-47dc400c3271",
