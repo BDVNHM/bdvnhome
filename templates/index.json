@@ -310,38 +310,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "6948f8a6-5d27-4f9b-9de7-b4541c4ca21b": {
-      "type": "image-banner",
-      "blocks": {
-        "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop now",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19421035397445__6948f8a6-5d27-4f9b-9de7-b4541c4ca21b-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/blender_doos_2_0c82910a-5ba4-457c-b090-fa7f15b3db49.jpg",
-        "image_overlay_opacity": 20,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -356,7 +324,6 @@
     "1721b25b-4c56-4875-a642-a06893e7b6c7",
     "aced4f03-44ec-4218-83ea-a734505a3dd2",
     "a0e6f38c-38f6-44f4-bda9-93359cdc0cdf",
-    "0becd409-b030-4a96-bccb-888870688bc4",
-    "6948f8a6-5d27-4f9b-9de7-b4541c4ca21b"
+    "0becd409-b030-4a96-bccb-888870688bc4"
   ]
 }
