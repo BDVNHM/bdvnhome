@@ -225,7 +225,7 @@
           "type": "button",
           "settings": {
             "button_label": "Collection",
-            "button_link": "",
+            "button_link": "shopify:\/\/collections\/beauty-care",
             "button_style_secondary": false
           }
         }
@@ -237,11 +237,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/care.jpg",
-        "height": "adapt",
+        "height": "large",
         "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
         "image_behavior": "none",
