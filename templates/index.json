@@ -1,5 +1,41 @@
 {
   "sections": {
+    "bed369fb-862e-4238-8a15-53e259d70d94": {
+      "type": "slideshow",
+      "blocks": {
+        "2259dbc8-095f-4dae-b13e-36687c9d8637": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BODIVON_CARE_BATHROOM.jpg",
+            "heading": "BODICARE",
+            "heading_size": "h2",
+            "subheading": "FOR YOU",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/bodi-care",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "2259dbc8-095f-4dae-b13e-36687c9d8637"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08": {
       "type": "slideshow",
       "blocks": {
@@ -62,57 +98,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "8a56c9e5-f16f-4af6-83b9-73eceff0de30": {
-      "type": "image-banner",
-      "blocks": {
-        "b2a02e28-4814-4f4a-8675-36dd0506fe18": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "f9e2ccbc-7323-4e66-bd26-f8a19bfe774f": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "c855173d-f78d-4e15-bebf-7c593eb60fa8": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "b2a02e28-4814-4f4a-8675-36dd0506fe18",
-        "f9e2ccbc-7323-4e66-bd26-f8a19bfe774f",
-        "c855173d-f78d-4e15-bebf-7c593eb60fa8"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BODIVON_WALL_ART_2.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "6aedb44e-d735-47f3-b82d-aa2652c32aae": {
       "type": "slideshow",
       "blocks": {
@@ -149,42 +134,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "bed369fb-862e-4238-8a15-53e259d70d94": {
-      "type": "slideshow",
-      "blocks": {
-        "2259dbc8-095f-4dae-b13e-36687c9d8637": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BODIVON_CARE_BATHROOM.jpg",
-            "heading": "BODICARE",
-            "heading_size": "h2",
-            "subheading": "FOR YOU",
-            "button_label": "SHOP",
-            "link": "shopify:\/\/collections\/bodi-care",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "2259dbc8-095f-4dae-b13e-36687c9d8637"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "e2880c26-f562-40f3-bad7-c0936733c0d1": {
       "type": "slideshow",
       "settings": {
@@ -209,45 +158,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "71dd1cab-01d9-49a5-8982-b1bcb6186ce9": {
-      "type": "collage",
-      "blocks": {
-        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bank_close_4_478b98de-c8fa-48d3-980a-94a02e70411f.jpg"
-          }
-        },
-        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-product-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-image-1",
-        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-product-1",
-        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-collection-1"
-      ],
-      "settings": {
-        "heading": "<strong>Fresh Finds For You<\/strong>",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 24,
-        "padding_bottom": 12
       }
     },
     "1721b25b-4c56-4875-a642-a06893e7b6c7": {
@@ -340,17 +250,43 @@
         "padding_bottom": 36
       }
     },
-    "22a88e59-3b87-40a2-8829-d2ec15573c14": {
+    "71dd1cab-01d9-49a5-8982-b1bcb6186ce9": {
       "type": "collage",
+      "blocks": {
+        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bank_close_4_478b98de-c8fa-48d3-980a-94a02e70411f.jpg"
+          }
+        },
+        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-image-1",
+        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-product-1",
+        "template--19421035397445__71dd1cab-01d9-49a5-8982-b1bcb6186ce9-collection-1"
+      ],
       "settings": {
-        "heading": "",
+        "heading": "<strong>Fresh Finds For You<\/strong>",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "accent-2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 12
       }
     },
     "a0e6f38c-38f6-44f4-bda9-93359cdc0cdf": {
@@ -363,7 +299,7 @@
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
-        "color_scheme": "accent-2",
+        "color_scheme": "background-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -407,7 +343,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -448,19 +384,17 @@
     }
   },
   "order": [
+    "bed369fb-862e-4238-8a15-53e259d70d94",
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08",
     "b67374ed-82fa-4c76-90e3-d3a2001c66cb",
     "95971ddc-38a4-41a7-bc8f-f67b7c716e99",
-    "8a56c9e5-f16f-4af6-83b9-73eceff0de30",
     "6aedb44e-d735-47f3-b82d-aa2652c32aae",
-    "bed369fb-862e-4238-8a15-53e259d70d94",
     "e2880c26-f562-40f3-bad7-c0936733c0d1",
     "0c8cdda4-d132-4877-8cae-138cd5a6ce72",
-    "71dd1cab-01d9-49a5-8982-b1bcb6186ce9",
     "1721b25b-4c56-4875-a642-a06893e7b6c7",
     "70874e66-957c-4995-8db4-f0a8e75f2c36",
     "aced4f03-44ec-4218-83ea-a734505a3dd2",
-    "22a88e59-3b87-40a2-8829-d2ec15573c14",
+    "71dd1cab-01d9-49a5-8982-b1bcb6186ce9",
     "a0e6f38c-38f6-44f4-bda9-93359cdc0cdf",
     "0becd409-b030-4a96-bccb-888870688bc4",
     "6948f8a6-5d27-4f9b-9de7-b4541c4ca21b"
