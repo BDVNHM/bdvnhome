@@ -209,8 +209,8 @@
       },
       "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4": {
         "settings": {
-          "background": "#fdfbf7",
-          "background_gradient": "linear-gradient(180deg, rgba(245, 245, 245, 1), rgba(239, 244, 236, 1) 45%, rgba(241, 235, 226, 1) 100%)",
+          "background": "#56524b",
+          "background_gradient": "",
           "text": "#030303",
           "button": "#ba9b65",
           "button_label": "#fdfbf7",
