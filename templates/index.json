@@ -64,22 +64,6 @@
         "padding_bottom": 36
       }
     },
-    "3a747230-dee7-4424-9669-08e50ba0792b": {
-      "type": "video",
-      "settings": {
-        "heading": "NEW PRIVATE COLLECTION",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/BODIVON VIDEO.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/untitled1.jpg",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ce47fc51-a6d1-4dc3-bc9c-47dc400c3271": {
       "type": "image-banner",
       "blocks": {
@@ -126,6 +110,22 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "3a747230-dee7-4424-9669-08e50ba0792b": {
+      "type": "video",
+      "settings": {
+        "heading": "NEW PRIVATE COLLECTION",
+        "heading_size": "h2",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/BODIVON VIDEO.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/untitled1.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08": {
@@ -379,8 +379,8 @@
   "order": [
     "bed369fb-862e-4238-8a15-53e259d70d94",
     "70874e66-957c-4995-8db4-f0a8e75f2c36",
-    "3a747230-dee7-4424-9669-08e50ba0792b",
     "ce47fc51-a6d1-4dc3-bc9c-47dc400c3271",
+    "3a747230-dee7-4424-9669-08e50ba0792b",
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08",
     "b67374ed-82fa-4c76-90e3-d3a2001c66cb",
     "95971ddc-38a4-41a7-bc8f-f67b7c716e99",
