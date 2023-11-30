@@ -20,7 +20,7 @@
         "h2 {font-size: 15px;}"
       ],
       "settings": {
-        "color_scheme": "accent-2",
+        "color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
         "show_line_separator": false,
         "show_social": true,
         "auto_rotate": false,
@@ -37,8 +37,8 @@
         "menu_type_desktop": "drawer",
         "sticky_header_type": "reduce-logo-size",
         "show_line_separator": false,
-        "color_scheme": "accent-2",
-        "menu_color_scheme": "scheme-1e1100ea-24e3-4856-bc62-f699f88f0e75",
+        "color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
+        "menu_color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
