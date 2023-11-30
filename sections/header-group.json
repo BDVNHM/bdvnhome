@@ -8,8 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "order today at bodivon",
-            "link": ""
+            "text": "Sign up and receive a 10% discount",
+            "link": "shopify:\/\/pages\/contact"
           }
         }
       },
