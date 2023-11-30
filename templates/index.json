@@ -200,29 +200,6 @@
     },
     "0c8cdda4-d132-4877-8cae-138cd5a6ce72": {
       "type": "slideshow",
-      "blocks": {
-        "template--19421035397445__0c8cdda4-d132-4877-8cae-138cd5a6ce72-slide-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/kitchen_ware_cutlery_wall_frame.jpg",
-            "heading": "Best finds for you kitchen.",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Shop now",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--19421035397445__0c8cdda4-d132-4877-8cae-138cd5a6ce72-slide-1"
-      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -284,7 +261,7 @@
         "cover_image": "shopify:\/\/shop_images\/blender_doos_2.jpg",
         "description": "",
         "full_width": false,
-        "color_scheme": "accent-2",
+        "color_scheme": "scheme-0fb625cc-316a-49a1-9957-e025b3e07be4",
         "padding_top": 20,
         "padding_bottom": 20
       }
