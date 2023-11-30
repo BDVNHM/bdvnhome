@@ -119,10 +119,10 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "checkout_body_background_color": "#ba9b65",
-    "checkout_sidebar_background_color": "#ba9b65",
+    "checkout_body_background_color": "#e9e5df",
+    "checkout_sidebar_background_color": "#fcf8f2",
     "checkout_accent_color": "#5eb5ef",
-    "checkout_button_color": "#dcc9b7",
+    "checkout_button_color": "#151515",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -143,9 +143,9 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#fdfbf7",
-          "background_gradient": "linear-gradient(180deg, rgba(228, 221, 214, 1) 100%, rgba(240, 244, 236, 1) 100%, rgba(255, 255, 255, 1) 100%, rgba(241, 235, 226, 1) 100%)",
-          "text": "#fdfbf7",
+          "background": "#e9e5df",
+          "background_gradient": "",
+          "text": "#151515",
           "button": "#232222",
           "button_label": "#fdfbf7",
           "secondary_button_label": "#000000",
