@@ -80,32 +80,52 @@
         "padding_bottom": 36
       }
     },
-    "1b40a8cd-9526-4f48-b54d-6005a5b45bc4": {
+    "ce47fc51-a6d1-4dc3-bc9c-47dc400c3271": {
       "type": "image-banner",
       "blocks": {
-        "template--19678447862085__1b40a8cd-9526-4f48-b54d-6005a5b45bc4-heading-1": {
+        "template--19678447862085__ce47fc51-a6d1-4dc3-bc9c-47dc400c3271-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "NEW",
             "heading_size": "h2"
+          }
+        },
+        "template--19678447862085__ce47fc51-a6d1-4dc3-bc9c-47dc400c3271-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--19678447862085__ce47fc51-a6d1-4dc3-bc9c-47dc400c3271-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "BUY",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--19678447862085__1b40a8cd-9526-4f48-b54d-6005a5b45bc4-heading-1"
+        "template--19678447862085__ce47fc51-a6d1-4dc3-bc9c-47dc400c3271-heading-1",
+        "template--19678447862085__ce47fc51-a6d1-4dc3-bc9c-47dc400c3271-text-1",
+        "template--19678447862085__ce47fc51-a6d1-4dc3-bc9c-47dc400c3271-buttons-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/untitled2.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08": {
@@ -360,7 +380,7 @@
     "bed369fb-862e-4238-8a15-53e259d70d94",
     "70874e66-957c-4995-8db4-f0a8e75f2c36",
     "3a747230-dee7-4424-9669-08e50ba0792b",
-    "1b40a8cd-9526-4f48-b54d-6005a5b45bc4",
+    "ce47fc51-a6d1-4dc3-bc9c-47dc400c3271",
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08",
     "b67374ed-82fa-4c76-90e3-d3a2001c66cb",
     "95971ddc-38a4-41a7-bc8f-f67b7c716e99",
