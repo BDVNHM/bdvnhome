@@ -8,7 +8,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/BODIVON_CARE_BATHROOM.jpg",
             "heading": "<strong>Luxury Home & Body Products<\/strong>",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "For You",
             "button_label": "SHOP",
             "link": "shopify:\/\/collections\/bodi-care",
@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WEBSITE_-_noise_e91b886e-1017-4565-a624-0d3f306d7ae0.jpg",
             "heading": "<strong>NEW COLLECTION<\/strong>",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "FALL\/WINTER",
             "button_label": "SHOP HOME",
             "link": "shopify:\/\/collections",
@@ -106,7 +106,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/bodivon_wall_art.jpg",
             "heading": "WALL ART",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "ART AN FRAMES FOR YOU",
             "button_label": "SHOP",
             "link": "shopify:\/\/collections",
