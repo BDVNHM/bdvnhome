@@ -17,7 +17,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/WEBSITE_-_noise_e91b886e-1017-4565-a624-0d3f306d7ae0.jpg",
             "heading": "NEW COLLECTION",
-            "heading_size": "h0",
+            "heading_size": "h2",
             "subheading": "<strong>FALL\/WINTER<\/strong>",
             "button_label": "SHOP HOME",
             "link": "shopify:\/\/collections",
@@ -53,7 +53,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
