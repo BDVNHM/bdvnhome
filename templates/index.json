@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/BODIVON_CARE_BATHROOM.jpg",
-            "heading": "Luxury Home & Body Products",
+            "heading": "<strong>Luxury Home & Body Products<\/strong>",
             "heading_size": "h2",
             "subheading": "For You",
             "button_label": "SHOP",
@@ -43,9 +43,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/WEBSITE_-_noise_e91b886e-1017-4565-a624-0d3f306d7ae0.jpg",
-            "heading": "NEW COLLECTION",
+            "heading": "<strong>NEW COLLECTION<\/strong>",
             "heading_size": "h2",
-            "subheading": "<strong>FALL\/WINTER<\/strong>",
+            "subheading": "FALL\/WINTER",
             "button_label": "SHOP HOME",
             "link": "shopify:\/\/collections",
             "button_style_secondary": false,
@@ -115,7 +115,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
