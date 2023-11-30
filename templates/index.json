@@ -50,29 +50,6 @@
     },
     "bed369fb-862e-4238-8a15-53e259d70d94": {
       "type": "slideshow",
-      "blocks": {
-        "2259dbc8-095f-4dae-b13e-36687c9d8637": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BODIVON_CARE_BATHROOM.jpg",
-            "heading": "<strong>Luxury Home & Body Products<\/strong>",
-            "heading_size": "h1",
-            "subheading": "For You",
-            "button_label": "SHOP",
-            "link": "shopify:\/\/collections\/beauty-care",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "2259dbc8-095f-4dae-b13e-36687c9d8637"
-      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -176,31 +153,56 @@
         "padding_bottom": 36
       }
     },
-    "58fd1dbf-81f7-47c6-92e1-1ad27f551c08": {
-      "type": "slideshow",
+    "1c128dbc-7453-477a-a57f-e5683294bbce": {
+      "type": "image-banner",
       "blocks": {
-        "template--19421035397445__58fd1dbf-81f7-47c6-92e1-1ad27f551c08-slide-1": {
-          "type": "slide",
+        "1305f808-46e2-4ab8-a651-d8277f654ca9": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WEBSITE_-_noise_e91b886e-1017-4565-a624-0d3f306d7ae0.jpg",
-            "heading": "<strong>NEW COLLECTION<\/strong>",
-            "heading_size": "h1",
-            "subheading": "FALL\/WINTER",
-            "button_label": "SHOP HOME",
-            "link": "shopify:\/\/collections",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "f2d0b692-27a3-458a-a37d-01a22548bccd": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "83478e71-a6a0-4c00-a95f-7dd79374ca85": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/collections\/beauty-care",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--19421035397445__58fd1dbf-81f7-47c6-92e1-1ad27f551c08-slide-1"
+        "1305f808-46e2-4ab8-a651-d8277f654ca9",
+        "f2d0b692-27a3-458a-a37d-01a22548bccd",
+        "83478e71-a6a0-4c00-a95f-7dd79374ca85"
       ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WEBSITE_-_noise_5b74e7a2-ac9f-45d1-af39-465d6c8728cf.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "58fd1dbf-81f7-47c6-92e1-1ad27f551c08": {
+      "type": "slideshow",
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -430,6 +432,7 @@
     "70874e66-957c-4995-8db4-f0a8e75f2c36",
     "ce47fc51-a6d1-4dc3-bc9c-47dc400c3271",
     "3a747230-dee7-4424-9669-08e50ba0792b",
+    "1c128dbc-7453-477a-a57f-e5683294bbce",
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08",
     "b67374ed-82fa-4c76-90e3-d3a2001c66cb",
     "95971ddc-38a4-41a7-bc8f-f67b7c716e99",
