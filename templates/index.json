@@ -153,6 +153,54 @@
         "padding_bottom": 36
       }
     },
+    "c5157c7a-f890-4ff9-a192-308f0321d063": {
+      "type": "image-banner",
+      "blocks": {
+        "e43c80a0-dd0e-4949-917d-2c15cb7b4749": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "f47a7cd2-8f97-4c4e-beef-33015c1b1ba8": {
+          "type": "heading",
+          "settings": {
+            "heading": "scented candles",
+            "heading_size": "h0"
+          }
+        },
+        "66ae2506-82d0-4ead-9175-cd7eb10aa7d8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "SHOP",
+            "button_link_2": "shopify:\/\/collections\/beauty-care",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "e43c80a0-dd0e-4949-917d-2c15cb7b4749",
+        "f47a7cd2-8f97-4c4e-beef-33015c1b1ba8",
+        "66ae2506-82d0-4ead-9175-cd7eb10aa7d8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/candle.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "1c128dbc-7453-477a-a57f-e5683294bbce": {
       "type": "image-banner",
       "blocks": {
@@ -432,6 +480,7 @@
     "70874e66-957c-4995-8db4-f0a8e75f2c36",
     "ce47fc51-a6d1-4dc3-bc9c-47dc400c3271",
     "3a747230-dee7-4424-9669-08e50ba0792b",
+    "c5157c7a-f890-4ff9-a192-308f0321d063",
     "1c128dbc-7453-477a-a57f-e5683294bbce",
     "58fd1dbf-81f7-47c6-92e1-1ad27f551c08",
     "b67374ed-82fa-4c76-90e3-d3a2001c66cb",
