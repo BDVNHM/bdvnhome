@@ -6,8 +6,8 @@
         "5734a1f3-c059-484c-93d9-111464c8ddbf": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Luxury Home & Body Products<\/strong>",
-            "heading_size": "h2"
+            "heading": "",
+            "heading_size": "h1"
           }
         },
         "47aced7e-23eb-4076-865b-ab023a716c93": {
@@ -23,7 +23,7 @@
             "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "SHOP",
+            "button_label_2": "Discover",
             "button_link_2": "shopify:\/\/collections\/beauty-care",
             "button_style_secondary_2": false
           }
