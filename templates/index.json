@@ -167,7 +167,7 @@
           "type": "heading",
           "settings": {
             "heading": "scented candles",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "66ae2506-82d0-4ead-9175-cd7eb10aa7d8": {
@@ -194,7 +194,7 @@
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
+        "color_scheme": "scheme-1e1100ea-24e3-4856-bc62-f699f88f0e75",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
