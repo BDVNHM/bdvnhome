@@ -25,7 +25,7 @@
             "button_style_secondary_1": false,
             "button_label_2": "Discover",
             "button_link_2": "shopify:\/\/collections\/beauty-care",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
