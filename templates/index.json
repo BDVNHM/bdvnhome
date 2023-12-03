@@ -167,7 +167,7 @@
           "type": "heading",
           "settings": {
             "heading": "scented candles",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "66ae2506-82d0-4ead-9175-cd7eb10aa7d8": {
@@ -178,7 +178,7 @@
             "button_style_secondary_1": false,
             "button_label_2": "SHOP",
             "button_link_2": "shopify:\/\/collections\/geurkaarsen",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
@@ -188,7 +188,7 @@
         "66ae2506-82d0-4ead-9175-cd7eb10aa7d8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/candle.png",
+        "image": "shopify:\/\/shop_images\/candle_presentatie.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-left",
